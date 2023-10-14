@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:BanqueService xmlns:tns="http://www.example.org/BanqueServiceXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/BanqueServiceXMLSchema BanqueServiceXMLSchema.xsd ">
+  <tns:conversion>
+    <tns:montant>tns:montant</tns:montant>
+  </tns:conversion>
+</tns:BanqueService>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+  <Film>
+    <titre>titre</titre>
+    <année>année</année>
+    <réalisateur>réalisateur</réalisateur>
+  </Film>
+  <Producteur>
+    <nom>nom</nom>
+    <Film>Film</Film>
+  </Producteur>
+</cinema>
+
